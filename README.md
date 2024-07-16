@@ -8,7 +8,7 @@ I used the Anaconda Prompt on my Windows 10 machine to run and debug my code.
 
 ## PyBank
 
-Most of the code for `PyBank` was influenced by the Module 3 Day 2 activities, such as `09-Stu_ReadComicBooksCSV` and `12-Stu_CensusZip`, which detail how to set up csv reading and writing, as well as how to use row indicies to find the proper data and manipulate it. I also had some help from ChatGPT for debugging the code, as well as for the syntax on the `textfile.write` sections.
+Most of the code for `PyBank` was influenced by the Module 3 Day 2 activities, such as `09-Stu_ReadComicBooksCSV` and `12-Stu_CensusZip`, which detail how to set up csv reading and writing, as well as how to use row indices to find the proper data and manipulate it. I also had some help from ChatGPT for debugging the code, as well as for the syntax on the `textfile.write` sections.
 
 ## PyPoll
 
